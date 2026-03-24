@@ -1,0 +1,16 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Simple Post Snapshot Tests > should render in the document - no likes  1`] = `
+<DocumentFragment>
+  <div
+    data-testid="post-container"
+  >
+    <h2>
+      Alex
+    </h2>
+    <p>
+      The Sky is Blue
+    </p>
+  </div>
+</DocumentFragment>
+`;
